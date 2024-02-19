@@ -1,0 +1,25 @@
+{
+    "formIdentifiers":{
+        "validationMessages":{
+            "required": "Mandatory field",
+            "onlyNumbers": "Only numbers are allowed",
+            "alreadyExists": "Duplicate values",
+            "onlyAlphabets": "Only alphabets are allowed",
+            "minimumThreeCharacters": "Minimum three characters are required",
+            "greaterThan0":"Should be greater than 0",
+            "greaterThanOrEqualto0":"Should be greater than or equal to 0",
+            "maximum99":"99 is the maximum",
+            "atleastOneAlphabet": "Atleast one alphabet required",
+            "Pattern" : "Invalid Pattern",
+            "lengthInvalid": "Invalid length",
+            "serverError":"Server error",
+            "refreshPage": "Try refreshing the page..."
+        }
+    },
+    "toastrMessages":{
+        "success-create":"Successfully created",
+        "failure-update":" : Failed to Update",
+        "failure-create": " : Failed to create",
+        "success-update": "Successfully updated"
+    }
+}

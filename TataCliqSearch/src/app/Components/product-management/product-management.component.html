@@ -1,0 +1,339 @@
+<html>
+ 
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <title>Product Inventory</title>
+    <!-- Bootstrap CSS -->
+</head>
+ 
+<body>
+    <div *ngIf="apierror" class="serverError">
+        <h3>{{errorMessages.formIdentifiers.validationMessages.serverError}} : {{api_error_code}}<br> {{errorMessages.formIdentifiers.validationMessages.refreshPage}}</h3>
+    </div>
+    <div *ngIf="!apierror" class="product-management">
+ 
+        <form [formGroup]="ProductFormGroup" class="form-group">
+            <div class="product-form">
+                <label class="form-header">Add Product / UpdateProduct</label>
+                
+                <div class="pageLoader" *ngIf="progressBarForm; else showForm">
+                    <mat-spinner mode="indeterminate"></mat-spinner>
+                </div>
+                <ng-template #showForm>
+                    <div class="form-body">
+                        <div>
+                            <mat-form-field appearance="outline" class="input-field">
+                                <mat-label>Name</mat-label>
+                                <input matInput placeholder="Enter the Name" formControlName="productName">
+                                <mat-error
+                                    *ngIf="ProductFormGroup.get('productName')!.hasError('required'); else duplicateError">
+                                    &#9888; {{errorMessages.formIdentifiers.validationMessages.required}}
+                                </mat-error>
+                                <ng-template #duplicateError>
+                                    <mat-error
+                                        *ngIf="ProductFormGroup.get('productName')!.hasError('duplicateProductName'); else patternError">
+                                        &#9888;{{errorMessages.formIdentifiers.validationMessages.alreadyExists}}
+                                    </mat-error>
+                                </ng-template>
+                                <!-- Pattern error -->
+                                <ng-template #patternError>
+                                    <mat-error
+                                        *ngIf="ProductFormGroup.get('productName')!.hasError('pattern'); else lengthInvalidError">
+                                        &#9888;{{errorMessages.formIdentifiers.validationMessages.Pattern}}
+                                    </mat-error>
+                                </ng-template>
+                                <!-- Length invalid error -->
+                                <ng-template #lengthInvalidError>
+                                    <mat-error *ngIf="ProductFormGroup.get('productName')!.hasError('lengthInvalid')">
+                                        &#9888;{{errorMessages.formIdentifiers.validationMessages.lengthInvalid}}
+                                    </mat-error>
+                                </ng-template>
+                                <mat-autocomplete #auto="matAutocomplete">
+                                    <ng-container *ngFor="let product of ProductArr">
+                                        <mat-option
+                                            (click)="showToUpdate(product.productId)">{{product.productName}}</mat-option>
+                                    </ng-container>
+                                </mat-autocomplete>
+                            </mat-form-field>
+                        </div>
+                        <div>
+                            <mat-form-field appearance="outline" class="input-field">
+                                <mat-label>Description</mat-label>
+                                <input matInput placeholder="Tell something" formControlName="productDescription">
+                                <mat-error
+                                    *ngIf="ProductFormGroup.get('productDescription')!.hasError('required'); else descriptionpattern">
+                                    &#9888;{{errorMessages.formIdentifiers.validationMessages.required}}
+                                </mat-error>
+                                <ng-template #descriptionpattern>
+                                    <mat-error
+                                        *ngIf="ProductFormGroup.get('productDescription')!.hasError('pattern');else descriptionlength">
+                                        &#9888;{{errorMessages.formIdentifiers.validationMessages.Pattern}}
+                                    </mat-error>
+                                </ng-template>
+                                <ng-template #descriptionlength>
+                                    <mat-error
+                                        *ngIf="ProductFormGroup.get('productDescription')!.hasError('lengthInvalid')">
+                                        &#9888;{{errorMessages.formIdentifiers.validationMessages.lengthInvalid}}
+                                    </mat-error>
+                                </ng-template>
+                            </mat-form-field>
+                        </div>
+                        <div>
+                            <mat-form-field appearance="outline" class="input-field">
+                                <mat-label>Price</mat-label>
+                                <input matInput placeholder="Enter the Price" formControlName="actualProductPrice"
+                                    (input)="calculateDiscount()">
+                                <mat-error
+                                    *ngIf="ProductFormGroup.get('actualProductPrice')!.hasError('required'); else priceValid">
+                                    &#9888;{{errorMessages.formIdentifiers.validationMessages.required}}
+                                </mat-error>
+                                <ng-template #priceValid>
+                                    <mat-error
+                                        *ngIf="ProductFormGroup.get('actualProductPrice')!.hasError('min'); else pricePattern">
+                                        &#9888;{{errorMessages.formIdentifiers.validationMessages.greaterThan0}}
+                                    </mat-error>
+                                </ng-template>
+                                <ng-template #pricePattern>
+                                    <mat-error *ngIf="ProductFormGroup.get('actualProductPrice')!.hasError('pattern')">
+                                        &#9888; {{errorMessages.formIdentifiers.validationMessages.onlyNumbers}}
+                                    </mat-error>
+                                </ng-template>
+                            </mat-form-field>
+                        </div>
+                        <div>
+                            <mat-form-field appearance="outline" class="input-field">
+                                <mat-label>Stock</mat-label>
+                                <input matInput placeholder="Stock" formControlName="stockQuantity">
+                                <mat-error
+                                    *ngIf="ProductFormGroup.get('stockQuantity')!.hasError('required'); else stockMin">
+                                    &#9888;{{errorMessages.formIdentifiers.validationMessages.required}}
+                                </mat-error>
+                                <ng-template #stockMin>
+                                    <mat-error
+                                        *ngIf="ProductFormGroup.get('stockQuantity')!.hasError('min'); else stockPattern">
+                                        &#9888;{{errorMessages.formIdentifiers.validationMessages.greaterThanOrEqualto0}}
+                                    </mat-error>
+                                </ng-template>
+                                <ng-template #stockPattern>
+                                    <mat-error *ngIf="ProductFormGroup.get('stockQuantity')!.hasError('pattern')">
+                                        &#9888;{{errorMessages.formIdentifiers.validationMessages.onlyNumbers}}
+                                    </mat-error>
+                                </ng-template>
+                            </mat-form-field>
+                        </div>
+                        <div>
+                            <mat-form-field appearance="outline" class="input-field">
+                                <mat-label>Category</mat-label>
+                                <mat-select formControlName="categoryId">
+                                    <mat-option *ngFor="let Category of CategoryArr" [value]="Category.categoryId">
+                                        {{ Category.categoryName}}
+                                    </mat-option>
+                                </mat-select>
+                                <mat-error *ngIf="ProductFormGroup.get('categoryId')!.hasError('required')">
+                                    &#9888;{{errorMessages.formIdentifiers.validationMessages.required}}
+                                </mat-error>
+                            </mat-form-field>
+                        </div>
+                        <div>
+                            <mat-form-field appearance="outline" class="input-field">
+                                <mat-label>Brand</mat-label>
+                                <mat-select formControlName="brandId">
+                                    <mat-option *ngFor="let Brand of BrandArr" [value]="Brand.brandId">{{
+                                        Brand.brandName
+                                        }}</mat-option>
+                                </mat-select>
+                                <mat-error *ngIf="ProductFormGroup.get('brandId')!.hasError('required')">
+                                    &#9888;{{errorMessages.formIdentifiers.validationMessages.required}}
+                                </mat-error>
+                            </mat-form-field>
+                        </div>
+                        <div class="toggle-button">
+                            <mat-slide-toggle formControlName="enableDiscounts">Apply Discount</mat-slide-toggle>
+                        </div>
+                        <div>
+                            <div class="discount-field" *ngIf="ProductFormGroup.get('enableDiscounts')?.value">
+                                <mat-form-field appearance="outline" class="input-field">
+                                    <mat-label>Discount%</mat-label>
+                                    <input matInput placeholder="Enter the Discount"
+                                        formControlName="discountPercentage" (input)="calculateDiscount()">
+                                    <mat-error
+                                        *ngIf="ProductFormGroup.get('discountPercentage')!.hasError('min'); else discountMax">
+                                        &#9888;{{errorMessages.formIdentifiers.validationMessages.greaterThanOrEqualto0}}
+                                    </mat-error>
+                                    <ng-template #discountMax>
+                                        <mat-error
+                                            *ngIf="ProductFormGroup.get('discountPercentage')!.hasError('max'); else discountPattern">
+                                            &#9888;{{errorMessages.formIdentifiers.validationMessages.maximum99}}
+                                        </mat-error>
+                                    </ng-template>
+                                    <ng-template #discountPattern>
+                                        <mat-error
+                                            *ngIf="ProductFormGroup.get('discountPercentage')!.hasError('pattern')">
+                                            &#9888;{{errorMessages.formIdentifiers.validationMessages.onlyNumbers}}
+                                        </mat-error>
+                                    </ng-template>
+                                </mat-form-field>
+                            </div>
+                        </div>
+                        <div>
+                            <div *ngIf="ProductFormGroup.get('enableDiscounts')?.value">
+                                <mat-form-field appearance="outline" class="input-field">
+                                    <mat-label>Final Price</mat-label>
+                                    <input matInput formControlName="finalProductPrice">
+                                </mat-form-field>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-button">
+                        <div *ngIf="showSubmitButton">
+                            <button class="processButton" mat-button type="submit" color="primary"
+                                [disabled]="ProductFormGroup.invalid" type="button"
+                                (click)=" addProduct(ProductFormGroup.value)">Submit</button>
+                        </div>
+                        <div *ngIf="showUpdateButton">
+                            <button class="processButton" mat-button type="button" [disabled]="ProductFormGroup.invalid"
+                                (click)="toUpdate()" color="primary">Update</button>
+                        </div>
+                        <button mat-button type="button" (click)="cancel()" class="processButton"
+                            color="warn">Cancel</button>
+                    </div>
+                </ng-template>
+            </div>
+        </form>
+ 
+        <div>
+            <form [formGroup]="FilterForm" (input)="filterData()">
+                    <div style=" display: flex;justify-content: right; padding-right: 25px; gap: 10px;">
+                        <div>
+                            <mat-form-field appearance="outline" class="input-field">
+                                <mat-label>Brand</mat-label>
+                                <mat-select formControlName="brandId">
+                                    <mat-option [value]="null"></mat-option>
+                                    <mat-option *ngFor="let Brand of BrandArr" [value]="Brand.brandId">{{
+                                        Brand.brandName
+                                        }}</mat-option>
+                                </mat-select>
+                            </mat-form-field>
+                        </div>
+                        <div>
+                            <mat-form-field appearance="outline" class="input-field">
+                                <mat-label>Category</mat-label>
+                                <mat-select formControlName="categoryId">
+                                    <mat-option [value]="null"></mat-option>
+                                    <mat-option *ngFor="let Category of CategoryArr" [value]="Category.categoryId">
+                                        {{ Category.categoryName}}
+                                    </mat-option>
+                                </mat-select>
+                            </mat-form-field>
+                        </div>
+                        <section class="example-section">
+                            <mat-checkbox formControlName="stockCheckBox" class="example-margin"
+                                style="padding-top: 10px;">Available Products</mat-checkbox>
+                        </section>
+                    </div>
+            </form>
+        </div>
+ 
+        <div id="tableView" class="mat-elevation-z8">
+            <div *ngIf="dataSource.data.length === 0" class="noData">
+                There is no data to display
+            </div>
+            <mat-table #myTable [dataSource]="dataSource" matSort matPaginator *ngIf="!(dataSource.data.length === 0)"
+                class="mat-tables">
+                <ng-container matColumnDef="productName">
+                    <th mat-header-cell *matHeaderCellDef mat-sort-header class="tableheader  Name"> Name </th>
+                    <td mat-cell *matCellDef="let element" [matTooltipDisabled]="element.productName.length <=25 "
+                        [matTooltip]="element.productName"> {{(element.productName.length > 25) ?
+                        (element.productName | slice:0:25)+'..' : element.productName}} </td>
+                </ng-container>
+                <ng-container matColumnDef="productDescription">
+                    <th mat-header-cell *matHeaderCellDef class="tableheader  productDescription"> Description
+                    </th>
+                    <td mat-cell *matCellDef="let element"
+                        [matTooltipDisabled]="element.productDescription.length <=50 "
+                        [matTooltip]="element.productDescription"> {{(element.productDescription.length > 50) ?
+                        (element.productDescription | slice:0:50) + '..' : element.productDescription}} </td>
+                </ng-container>
+                <ng-container matColumnDef="Price">
+                    <th mat-sort-header mat-header-cell *matHeaderCellDef class="tableheader  Price"> Price </th>
+                    <td mat-cell *matCellDef="let element">
+                        <div class="price">
+                            <div class="finalPrice" [matTooltipDisabled]="element.finalProductPrice <= 9999999"
+                                [matTooltip]="element.finalProductPrice">&#8377;{{ (element.finalProductPrice > 9999999)
+                                ?
+                                (element.finalProductPrice.toString() | slice:0:7) +'...' : (element.finalProductPrice)
+                                }}</div>
+                            <div class="discountAndActualPrice">
+                                <div class="discountPercentage">{{ element.discountPercentage }}%</div>
+                                <div class="actualPrice" [matTooltipDisabled]="element.actualProductPrice <= 9999999"
+                                    [matTooltip]="element.actualProductPrice">&#8377;{{ (element.actualProductPrice >
+                                    9999999) ?
+                                    (element.actualProductPrice.toString() | slice:0:7) +'...' :
+                                    (element.actualProductPrice) }}
+                                </div>
+                            </div>
+                        </div>
+                    </td>
+                </ng-container>
+                <ng-container matColumnDef="stockQuantity">
+                    <th mat-header-cell mat-sort-header *matHeaderCellDef class="tableheader  stockQuantity"> Stock
+                    </th>
+                    <td class="stockQuantitydata" mat-cell *matCellDef="let element"
+                        [matTooltipDisabled]="element.stockQuantity <=999999" [matTooltip]="element.stockQuantity">
+                        {{(element.stockQuantity > 999999) ? (element.stockQuantity.toString() | slice:0:6) + '...' :
+                        (element.stockQuantity) }} </td>
+                </ng-container>
+                <ng-container matColumnDef="categoryName">
+                    <th mat-header-cell mat-sort-header *matHeaderCellDef class="tableheader  Category"> Category </th>
+                    <td mat-cell *matCellDef="let element" [matTooltipDisabled]="element.categoryName.length <=18 "
+                        [matTooltip]="element.categoryName"> {{(element.categoryName.length >18) ? (element.categoryName
+                        | slice:0:18) + '...' : (element.categoryName) }} </td>
+                </ng-container>
+                <ng-container matColumnDef="brandName">
+                    <th mat-header-cell mat-sort-header *matHeaderCellDef class="tableheader  brandName"> Brand </th>
+                    <td mat-cell *matCellDef="let element" [matTooltipDisabled]="element.brandName.length <=13 "
+                        [matTooltip]="element.brandName"> {{(element.brandName.length > 13) ? (element.brandName |
+                        slice:0:13) + '...' : (element.brandName)}} </td>
+                </ng-container>
+                <ng-container matColumnDef="editButton">
+                    <th mat-header-cell *matHeaderCellDef class="tableheader  Action"> Action </th>
+                    <td class="editIcon" mat-cell *matCellDef="let element">
+                        <i (click)="showToUpdate(element.productId)"
+                            class="fa-regular fa-pen-to-square table button"></i>
+                    </td>
+                </ng-container>
+                <ng-container matColumnDef="wishlist">
+                    <th mat-header-cell mat-sort-header *matHeaderCellDef class="tableheader wishlist" >Wishlist </th>
+                    <td mat-cell *matCellDef="let element" class="wishlist-cell">
+                      <div class="wishlist-button">
+                        <button mat-icon-button [disabled]="element.stockQuantity === 0" (click)="toggleWishlist(element)">
+                          <ng-container *ngIf="element.addedToWishlist; else notAdded">
+                            <!-- If the product is in the wishlist, show the "Go To Wishlist" button and route to Wishlist component -->
+                            <button mat-raised-button color="primary" [routerLink]="['/wishlist-page']" routerLinkActive="active">Go To Wishlist</button>
+                          </ng-container>
+                          <ng-template #notAdded>
+                            <!-- If the product is not in the wishlist, show the "Add To Wishlist" button -->
+                            <button mat-raised-button color="primary"  [disabled]="element.stockQuantity === 0" (click)="addToWishlists(element.productId)">Add To Wishlist</button>
+                          </ng-template>
+                        </button>
+                      </div>
+                    </td>
+                  </ng-container>
+                  
+                  
+                <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+                <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+            </mat-table>
+            <mat-paginator [length]="dataSource.data.length" [pageSize]="10" [pageSizeOptions]="[2, 5, 10, 25, 100]">
+            </mat-paginator>
+        </div>
+    </div>
+</body>
+ 
+</html>

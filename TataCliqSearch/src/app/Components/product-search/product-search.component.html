@@ -1,0 +1,122 @@
+<div class="form-group">
+  <div class="product-form">
+    <label class="form-header">Search Product</label>
+    
+      <div class="form-body">
+        
+        <div>
+          <mat-form-field class="SearchField" appearance="outline" style="width: 100%; height: 100%;">
+            <mat-label>Description</mat-label>
+            <input matInput placeholder="Search" [(ngModel)]="searchTerm" (ngModelChange)="searchProducts()">
+          </mat-form-field>
+        </div>
+        <div>
+          <mat-form-field class="input-field" appearance="outline" style="width: 100%; height: 100%;">
+            <mat-select [(ngModel)]="discountTerm" (ngModelChange)="searchProducts()">
+              <mat-option value="">Select Discount</mat-option>
+              <mat-option value="0-10">Between 0 to 10%</mat-option>
+              <mat-option value="<25">Less than 25%</mat-option>
+              <mat-option value="25-50">Between 25 to 50%</mat-option>
+              <mat-option value="<50">Less than 50%</mat-option>
+              <mat-option value=">50">Greater than 50%</mat-option>
+            </mat-select>
+          </mat-form-field>
+        </div>
+      </div>
+      
+    
+  </div>
+</div>
+
+
+
+
+
+  <div class="mat-elevation-z8">
+    <!-- Table section with mat-table and mat-paginator -->
+    <div class=" bottombodydata">
+      <!-- Mat Table -->
+      <ng-container *ngIf="dataSource.data && dataSource.data.length > 0; else noProducts">
+
+        <mat-table [dataSource]="dataSource" matSort matPaginator class="mat-elevation-z8">
+
+          <!-- Add columns based on your data structure -->
+          <ng-container matColumnDef="productName">
+            <th mat-header-cell mat-sort-header class="fixed-header-cell productNameHeader" *matHeaderCellDef
+              class="fixed-header-cell">
+              Product Name </th>
+            <td mat-cell *matCellDef="let product"> {{ product.productName }} </td>
+          </ng-container>
+
+          <ng-container matColumnDef="productDescription">
+            <th mat-header-cell mat-sort-header class="fixed-header-cell productDescriptionHeader" *matHeaderCellDef
+              class="fixed-header-cell">
+              Product Description </th>
+            <td mat-cell *matCellDef="let element" [matTooltipDisabled]="element.productDescription.length <=37 "
+              [matTooltip]="element.productDescription"> {{(element.productDescription.length > 37) ?
+              (element.productDescription | slice:0:37)+'..' : element.productDescription}} </td>
+          </ng-container>
+
+
+
+          <ng-container matColumnDef="categoryName">
+            <th mat-header-cell mat-sort-header class="fixed-header-cell categoryNameHeader" *matHeaderCellDef
+              class="fixed-header-cell">
+              Category Name </th>
+            <td mat-cell *matCellDef="let element" [matTooltipDisabled]="element.categoryName.length <11 "
+              [matTooltip]="element.categoryName"> {{(element.categoryName.length > 11) ?
+              (element.categoryName | slice:0:11)+'..' : element.categoryName}} </td>
+          </ng-container>
+
+          <ng-container matColumnDef="brandName">
+            <th mat-header-cell mat-sort-header class="fixed-header-cell brandNameHeader" *matHeaderCellDef
+              class="fixed-header-cell">
+              Brand
+            </th>
+            <td mat-cell *matCellDef="let product"> {{ product.brandName}} </td>
+          </ng-container>
+
+
+
+          <ng-container matColumnDef="actualProductPrice">
+            <th mat-header-cell mat-sort-header class="fixed-header-cell actualProductPriceHeader" *matHeaderCellDef
+              class="fixed-header-cell">
+              Price
+            </th>
+            <td mat-cell *matCellDef="let product"> {{ product.actualProductPrice}} </td>
+          </ng-container>
+
+          <ng-container matColumnDef="discountPercentage">
+            <th mat-header-cell mat-sort-header class="fixed-header-cell discountPercentageHeader" *matHeaderCellDef
+              class="fixed-header-cell">
+              Discount</th>
+            <td mat-cell *matCellDef="let product"> {{ product.discountPercentage}}%</td>
+          </ng-container>
+
+          <ng-container matColumnDef="finalProductPrice">
+            <th mat-header-cell mat-sort-header class="fixed-header-cell finalProductPriceHeader" *matHeaderCellDef
+              class="fixed-header-cell">
+              Total </th>
+            <td mat-cell *matCellDef="let product"> {{ product.finalProductPrice}} </td>
+          </ng-container>
+
+          <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+          <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+
+        </mat-table>
+
+        <!-- Paginator for the Mat Table -->
+        <mat-paginator #paginator [length]="dataSource.data.length" [pageSizeOptions]="[5, 10, 25, 50]"
+          showFirstLastButtons></mat-paginator>
+      </ng-container>
+
+      <ng-template #noProducts>
+        <div class="no-products-message ">
+          Sorry, The products that you are trying to search is unavailable right now
+        </div>
+      </ng-template>
+
+    </div>
+  </div>
+
+<div *ngIf="isShowBody"><router-outlet></router-outlet></div>

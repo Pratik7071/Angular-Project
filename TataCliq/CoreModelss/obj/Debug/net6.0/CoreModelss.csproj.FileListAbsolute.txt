@@ -1,0 +1,14 @@
+C:\TATACLIQ\TataCliq\CoreModelss\bin\Debug\net6.0\CoreModelss.deps.json
+C:\TATACLIQ\TataCliq\CoreModelss\bin\Debug\net6.0\CoreModelss.runtimeconfig.json
+C:\TATACLIQ\TataCliq\CoreModelss\bin\Debug\net6.0\CoreModelss.dll
+C:\TATACLIQ\TataCliq\CoreModelss\bin\Debug\net6.0\CoreModelss.pdb
+C:\TATACLIQ\TataCliq\CoreModelss\obj\Debug\net6.0\CoreModelss.csproj.AssemblyReference.cache
+C:\TATACLIQ\TataCliq\CoreModelss\obj\Debug\net6.0\CoreModelss.GeneratedMSBuildEditorConfig.editorconfig
+C:\TATACLIQ\TataCliq\CoreModelss\obj\Debug\net6.0\CoreModelss.AssemblyInfoInputs.cache
+C:\TATACLIQ\TataCliq\CoreModelss\obj\Debug\net6.0\CoreModelss.AssemblyInfo.cs
+C:\TATACLIQ\TataCliq\CoreModelss\obj\Debug\net6.0\CoreModelss.csproj.CoreCompileInputs.cache
+C:\TATACLIQ\TataCliq\CoreModelss\obj\Debug\net6.0\CoreModelss.dll
+C:\TATACLIQ\TataCliq\CoreModelss\obj\Debug\net6.0\refint\CoreModelss.dll
+C:\TATACLIQ\TataCliq\CoreModelss\obj\Debug\net6.0\CoreModelss.pdb
+C:\TATACLIQ\TataCliq\CoreModelss\obj\Debug\net6.0\CoreModelss.genruntimeconfig.cache
+C:\TATACLIQ\TataCliq\CoreModelss\obj\Debug\net6.0\ref\CoreModelss.dll

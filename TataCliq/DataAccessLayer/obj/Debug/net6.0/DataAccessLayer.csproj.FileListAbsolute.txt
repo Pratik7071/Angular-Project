@@ -1,0 +1,51 @@
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\DataAccessLayer\bin\Debug\net6.0\ApplicationLayer.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\DataAccessLayer\bin\Debug\net6.0\CoreModels.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\DataAccessLayer\bin\Debug\net6.0\ApplicationLayer.pdb
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\DataAccessLayer\bin\Debug\net6.0\CoreModels.pdb
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\DataAccessLayer\bin\Debug\net6.0\ApplicationLayer.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\DataAccessLayer\bin\Debug\net6.0\ApplicationLayer.pdb
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\DataAccessLayer\bin\Debug\net6.0\CoreModel.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\DataAccessLayer\bin\Debug\net6.0\CoreModel.pdb
+C:\TATACLIQ\TataCliq\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\TATACLIQ\TataCliq\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\TATACLIQ\TataCliq\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\TATACLIQ\TataCliq\DataAccessLayer\bin\Debug\net6.0\ApplicationLayer.dll
+C:\TATACLIQ\TataCliq\DataAccessLayer\bin\Debug\net6.0\ApplicationLayer.pdb
+C:\TATACLIQ\TataCliq\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\TATACLIQ\TataCliq\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\TATACLIQ\TataCliq\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\TATACLIQ\TataCliq\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\TATACLIQ\TataCliq\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\TATACLIQ\TataCliq\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\TATACLIQ\TataCliq\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\TATACLIQ\TataCliq\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\TATACLIQ\TataCliq\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\TATACLIQ\TataCliq\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\TATACLIQ\TataCliq\DataAccessLayer\bin\Debug\net6.0\CoreModelss.dll
+C:\TATACLIQ\TataCliq\DataAccessLayer\bin\Debug\net6.0\CoreModelss.pdb

@@ -1,0 +1,360 @@
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\appsettings.json
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\TataCliq.exe
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\TataCliq.deps.json
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\TataCliq.runtimeconfig.json
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\TataCliq.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\TataCliq.pdb
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.csproj.AssemblyReference.cache
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.AssemblyInfoInputs.cache
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.AssemblyInfo.cs
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.csproj.CoreCompileInputs.cache
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets\msbuild.TataCliq.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets\msbuild.build.TataCliq.props
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TataCliq.props
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TataCliq.props
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\obj\Debug\net6.0\scopedcss\bundle\TataCliq.styles.css
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.csproj.CopyComplete
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\obj\Debug\net6.0\refint\TataCliq.dll
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.pdb
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.genruntimeconfig.cache
+C:\Users\hpalanisamy\OneDrive - GalaxE. Solutions, Inc\Documents\TataCliq\WebAPI\TataCliq\TataCliq\obj\Debug\net6.0\ref\TataCliq.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\appsettings.json
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\TataCliq.exe
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\TataCliq.deps.json
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\TataCliq.runtimeconfig.json
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\TataCliq.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\TataCliq.pdb
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.csproj.AssemblyReference.cache
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.AssemblyInfoInputs.cache
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.AssemblyInfo.cs
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.csproj.CoreCompileInputs.cache
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets\msbuild.TataCliq.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets\msbuild.build.TataCliq.props
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TataCliq.props
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TataCliq.props
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\scopedcss\bundle\TataCliq.styles.css
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.csproj.CopyComplete
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\refint\TataCliq.dll
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.pdb
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.genruntimeconfig.cache
+C:\Users\hduppalapudi\OneDrive - GalaxE. Solutions, Inc\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\ref\TataCliq.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\appsettings.json
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\TataCliq.exe
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\TataCliq.deps.json
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\TataCliq.runtimeconfig.json
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\TataCliq.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\TataCliq.pdb
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.csproj.AssemblyReference.cache
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.AssemblyInfoInputs.cache
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.AssemblyInfo.cs
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.csproj.CoreCompileInputs.cache
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets\msbuild.TataCliq.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets\msbuild.build.TataCliq.props
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TataCliq.props
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TataCliq.props
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\scopedcss\bundle\TataCliq.styles.css
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.csproj.CopyComplete
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\refint\TataCliq.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.pdb
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.genruntimeconfig.cache
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\ref\TataCliq.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\CoreModels.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\CoreModels.pdb
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\ApplicationLayer.dll
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\bin\Debug\net6.0\ApplicationLayer.pdb
+C:\Users\hpalanisamy\Desktop\TataCliqTMT\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\appsettings.json
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\TataCliq.exe
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\TataCliq.deps.json
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\TataCliq.runtimeconfig.json
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\TataCliq.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\TataCliq.pdb
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\Humanizer.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\ApplicationLayer.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\ApplicationLayer.pdb
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.csproj.AssemblyReference.cache
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.AssemblyInfoInputs.cache
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.AssemblyInfo.cs
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.csproj.CoreCompileInputs.cache
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets\msbuild.TataCliq.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets\msbuild.build.TataCliq.props
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TataCliq.props
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TataCliq.props
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\obj\Debug\net6.0\scopedcss\bundle\TataCliq.styles.css
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.csproj.CopyComplete
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\obj\Debug\net6.0\refint\TataCliq.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.pdb
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.genruntimeconfig.cache
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\obj\Debug\net6.0\ref\TataCliq.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\CoreModel.dll
+C:\Users\pmohite\OneDrive - GalaxE. Solutions, Inc\Desktop\Tata\TataCliq\TataCliq\bin\Debug\net6.0\CoreModel.pdb
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\appsettings.Development.json
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\appsettings.json
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\TataCliq.exe
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\TataCliq.deps.json
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\TataCliq.runtimeconfig.json
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\TataCliq.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\TataCliq.pdb
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\Humanizer.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\ApplicationLayer.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\DataAccessLayer.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\ApplicationLayer.pdb
+C:\TATACLIQ\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.csproj.AssemblyReference.cache
+C:\TATACLIQ\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.GeneratedMSBuildEditorConfig.editorconfig
+C:\TATACLIQ\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.AssemblyInfoInputs.cache
+C:\TATACLIQ\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.AssemblyInfo.cs
+C:\TATACLIQ\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.csproj.CoreCompileInputs.cache
+C:\TATACLIQ\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.MvcApplicationPartsAssemblyInfo.cs
+C:\TATACLIQ\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.MvcApplicationPartsAssemblyInfo.cache
+C:\TATACLIQ\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets.build.json
+C:\TATACLIQ\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets.development.json
+C:\TATACLIQ\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets\msbuild.TataCliq.Microsoft.AspNetCore.StaticWebAssets.props
+C:\TATACLIQ\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets\msbuild.build.TataCliq.props
+C:\TATACLIQ\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TataCliq.props
+C:\TATACLIQ\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TataCliq.props
+C:\TATACLIQ\TataCliq\TataCliq\obj\Debug\net6.0\staticwebassets.pack.json
+C:\TATACLIQ\TataCliq\TataCliq\obj\Debug\net6.0\scopedcss\bundle\TataCliq.styles.css
+C:\TATACLIQ\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.csproj.CopyComplete
+C:\TATACLIQ\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.dll
+C:\TATACLIQ\TataCliq\TataCliq\obj\Debug\net6.0\refint\TataCliq.dll
+C:\TATACLIQ\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.pdb
+C:\TATACLIQ\TataCliq\TataCliq\obj\Debug\net6.0\TataCliq.genruntimeconfig.cache
+C:\TATACLIQ\TataCliq\TataCliq\obj\Debug\net6.0\ref\TataCliq.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\libman.json
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\CoreModelss.dll
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\CoreModelss.pdb
+C:\TATACLIQ\TataCliq\TataCliq\bin\Debug\net6.0\BCrypt.Net.dll

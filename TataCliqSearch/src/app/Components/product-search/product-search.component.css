@@ -1,0 +1,491 @@
+/* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+/* Container for search inputs and button */
+.container {
+  text-align: center;
+}
+
+/* Style for the search button */
+button.mat-button {
+  background-color: black;
+  color: #fff;
+  padding: 5px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+
+/* Style the button when it is disabled */
+button.mat-button:disabled {
+  background-color: #d3d3d3;
+  color: #666;
+  cursor: not-allowed;
+}
+
+
+.bold-placeholder::placeholder {
+  font-weight: bold;
+}
+
+.mat-form-field::ng-deep .mat-input-placeholder {
+  font-weight: bold;
+  background-color: white;
+}
+
+/* CSS for mat tables */
+.mat-button {
+  border: 1px solid black;
+}
+/* 
+.mat-sort-header-container {
+  justify-content: center;
+} */
+
+/* Set width and text alignment for specific columns */
+.mat-column-productName {
+  width: 25%;
+}
+
+
+.mat-column-categoryName {
+  width: 10%;
+}
+
+.mat-column-actualProductPrice{
+  width: 1%;
+}
+
+.mat-column-discountPercentage
+{  
+  width: 1%;
+}
+
+.mat-column-finalProductPrice{
+  width: 1%;
+}
+/* 
+mat-sort-header-container.actualProductPriceHeader,
+.discountPercentageHeader,
+.finalProductPriceHeader{
+  text-align: right !important;
+  justify-content: end;
+} */
+
+
+.tableheader.Action {
+  width: 25%!important;
+}
+
+.mat-column-brandName {
+  width: 6.5%;
+}
+
+.mat-column-productDescription {
+  width: 28%;
+}
+
+/* Style for mat-header-cell */
+.mat-header-cell {
+  font-size: 15px;
+}
+
+/* Make the first mat-header-cell sticky */
+th.mat-header-cell:first-of-type,
+th.mat-header-cell {
+  position: sticky;
+  background-color: #a4dcbc;
+  color: white;
+}
+
+td.mat-cell:hover {
+  background-color: #e6e6e6;
+}
+
+/* Make mat-header-cell sticky at the top */
+.mat-header-cell {
+  position: sticky;
+  top: 0;
+  background-color: #a4dcbc;
+  font-style: bold;
+  color: #012522;
+}
+
+/* Set background color for mat-header-row */
+.mat-header-row {
+  background-color: #a4dcbc;
+  color: #333;
+  font-size: 16px;
+
+}
+
+
+/* Margin for mat-table */
+.mat-table {
+  width: 100%;
+  justify-content: center;
+  border: 1px solid black;
+  border-bottom-width: 3px;
+  margin-right: 0px;
+  margin-top: 30px;
+  background: none;
+  display: inline-table;
+  line-height: 3.5;
+}
+
+
+.no-products-message {
+  color: red;
+  font-size: 18px;
+  font-weight: 700;
+  margin-top: 20px;
+  text-align: center;
+  opacity: 0.9;
+  width: 60%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+}
+
+
+.mat-elevation-z8 {
+  max-width: inherit;
+}
+
+/* Black Header */
+th.mat-header-cell {
+  background-color: #a4dcbc;
+  color: white;
+}
+
+/* Table Rows */
+td.mat-cell {
+  background-color: #e6e6fa;
+  color: black;
+}
+
+/* Highlight Color */
+td.mat-cell:hover {
+  background-color: #d9b0eb;
+}
+
+/* .ToggleButton{
+} */
+
+.topBodyData{
+  justify-content: space-between;
+  margin: 20px;
+}
+
+/* api-error.component.css */
+
+.api-error {
+  color: red;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.symbols {
+  display: flex;
+  box-sizing: inherit;
+  text-indent: 20px;
+  text-decoration: none;
+  color: white;
+  text-decoration: none;
+  -webkit-text-fill-color: white;
+}
+
+.symbols li {
+  list-style-type: none;
+}
+
+.desktop-shopLinks a {
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  display: block;
+  text-indent: 5px;
+}
+
+.navbar {
+  background-color: rgb(0, 0, 0);
+  color: white;
+  margin: 0px !important;
+  padding: 0px !important;
+  height: 70px;
+}
+
+.mat-form-field-appearance-fill .mat-form-field-flex {
+  background-color: rgb(0, 0, 0); 
+}
+
+.navlink {
+  color: white;
+}
+
+.navbar-nav .nav-link {
+  color: white;
+}
+
+.btn-outline-success {
+  color: white;
+  border-color: white;
+}
+
+tr.mat-header-row {
+  height: 50px;
+  /* display: flex; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  /* height: max-content; */
+  background-color: #a4dcbc;
+}
+
+/* .bodydata {
+  line-height: 3.5;
+} */
+
+
+
+/* Styling for the data container */
+.data {
+  background-color: #f0f0f0;
+}
+
+
+/* Styling for the search button */
+button.mat-button {
+  background-color: #4caf50;
+  color: white;
+}
+
+/* Styling for the discount term select */
+.mat-select {
+  width: 100%;
+}
+
+/* Styling for the mat-form-field spacing */
+.mat-form-field {
+  margin-right: 10px;
+  padding: 0;
+  width: 35%;
+}
+  
+.mat-form-field-wrapper {
+  width: 100%;
+}
+
+input.mat-input-element {
+  padding: 0;
+  width: 100%;
+}
+
+.mat-form-field.mat-focused .mat-form-field-underline {
+  display: none !important; /* Hide the underline when focused */
+}
+
+
+.mat-form-field .mat-form-field-underline,
+.mat-form-field:hover .mat-form-field-underline {
+  visibility: hidden;
+}
+
+
+
+/* Adjust the width and padding of columns to create a balanced layout */
+.mat-column-productName,
+.mat-column-productDescription,
+.mat-column-categoryName,
+.mat-column-brandName {
+  flex: 1;
+}
+
+.mat-column-actualProductPrice,
+.mat-column-discountPercentage,
+.mat-column-finalProductPrice {
+  flex: 0.7; /* Adjust the flex value for the right-aligned columns */
+  text-align: center; /* Maintain right alignment in cells */
+}
+
+.finalProductPriceHeader,
+.discountPercentageHeader,
+.actualProductPriceHeader{
+  text-align: center !important;
+}
+/* }
+.actualProductPriceHeader{
+
+  display: flex;
+  justify-content: end;
+}
+  .actualProductPriceHeader .appdiv{
+  }
+.productNameHeader,
+.productDescriptionHeader,
+.categoryNameHeader,
+.brandNameHeader{
+  text-align: left !important;
+} */
+
+
+/* Additional styles to improve readability */
+.mat-header-cell {
+  font-size: 15px;
+  background-color: #a4dcbc;
+  color: white;
+  padding: 10px; /* Adjust padding as needed for header cells */
+}
+
+  
+/* Set background color for mat-header-row */
+.mat-header-row {
+  background-color: #a4dcbc;
+  color: #333;
+  font-size: 16px;
+}
+
+.DiscountDropdown{
+  all:unset!important;
+  box-shadow: 5px 5px #e2e2e2 ;
+  margin-bottom: 5px !important;
+  background-color : e2e2e2 !important;
+  padding-bottom: 5px;
+  border: 1px solid black;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1) !important;
+}
+
+.mat-form-field-appearance-outline .mat-form-field-wrapper {
+  all:unset!important;
+  margin:0;
+  /* box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1) !important; */
+  box-shadow: 2px 2px black !important;
+  text-align: center !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.mat-form-field-appearance-outline .mat-form-field-infix {
+  padding: 0% !important;
+}
+
+
+.mat-input-placeholder-wrapper {
+  display: flex;
+  align-items: center !important;
+}
+
+.mat-placeholder {
+  /* text-align: center !important; */
+  margin-left: 10px;
+  width: 100%;
+}
+
+.mat-form-field-label{
+  /* text-align: center !important; */
+  margin-top: 10px;
+  margin-left: 10px;
+  background-color: white;
+}
+
+/* Add this style to your component's CSS file */
+::ng-deep .custom-mat-input .mat-form-field-label-wrapper {
+  transform: translateY(0) !important; /* Disable the label animation */
+}
+
+::ng-deep .custom-mat-input .mat-form-field-underline {
+  display: none !important; /* Hide the underline */
+}
+
+.custom-search-form{
+  padding: 0;
+  margin: 5px 0 0 0 !important;
+}
+ 
+
+.mat-paginator-navigation {
+  button {
+    color: #3498db;
+    /* Blue color */
+  }
+}
+
+::ng-deep .mat-input-underline {
+  display: none !important;
+}
+
+.mat-paginator-page-size mat-select {
+  color: #3498db;
+}
+
+.mat-paginator-container {
+  color: white;
+  font-size: inherit;
+  background-color: #a4dcbc;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+
+.search-icon-container {
+  position: absolute;
+  top: 50%;
+  left: 10px; /* Adjust the left position as needed */
+  transform: translateY(-50%);
+  color: rgba(0, 0, 0, 0.54); /* Adjust the color to match your placeholder color */
+}
+
+/* Add this to your component's CSS file */
+.custom-search-form {
+  width: 35%;
+  margin: 0 auto;
+}
+
+.search-bar-container {
+  display: flex;
+  align-items: center;
+}
+
+.icon-container {
+  margin-right: 10px;
+  margin-left: 10PX  !important;
+}
+
+.searchbutton {
+  background-color: white;
+  color: black;
+  margin-left: 10px;
+}
+
+.custom-search-field {
+  background-color: black;
+  border-radius: 10px;
+}
+
+.custom-search-form {
+  margin-left: 20px;
+}
+
+.custom-search-input {
+  color: white;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 5px 10px;
+  width: 150%;
+}
